@@ -1,0 +1,2 @@
+# IconsForDMNI
+Icons for DialogueMoreNPCInfo
