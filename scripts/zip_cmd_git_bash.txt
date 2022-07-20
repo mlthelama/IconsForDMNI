@@ -1,0 +1,1 @@
+python archive_artifacts.py --name IconsForDMNI --src-dir /e/source/IconsForDMNI
