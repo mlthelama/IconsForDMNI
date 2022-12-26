@@ -44,3 +44,5 @@ images in the folder src\swf\img are taken from.
 - var_orc_male https://en.uesp.net/wiki/File:BL-icon-avatar-Variant_Orc_Male.png
 - var_redguard_female https://en.uesp.net/wiki/File:BL-icon-avatar-Variant_Redguard_Female.png
 - var_redguard_male https://en.uesp.net/wiki/File:BL-icon-avatar-Variant_Redguard_Male.png
+- org_dragon_male https://en.uesp.net/wiki/File:BL-icon-avatar-Dragon.png
+- org_dragon_female https://en.uesp.net/wiki/File:BL-icon-avatar-Dragon.png (not sure if needed)
